@@ -1,3 +1,4 @@
+<p align="center">
 ## Welcome to my GitHub 👋
 
 ➼ 🎓 Currently a Final Year Economics and Finance Student at UEA \
@@ -9,6 +10,6 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hivan04/)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@hivan04)
-
+</p>
 
 
