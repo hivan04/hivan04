@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Welcome to my GitHub 👋
 
 ➼ 🎓 Current MSc Investment and Wealth Management Student at Imperial Business School <br/>
