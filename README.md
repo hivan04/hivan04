@@ -2,12 +2,10 @@
 
 ## Welcome to my GitHub 👋
 
-➼ 🎓 Currently a Final Year Economics and Finance Student at UEA  <br/>
-➼ 🎓 Incoming MSc Investment and Wealth Management at Imperial College Business School <br/>
+➼ 🎓 Current MSc Investment and Wealth Management Student at Imperial Business School <br/>
+➼ 🎓 UEA Economics and Finance Graduate - I finished top of my class out of 250 students!  <br/>
 ➼ 📈 Recently completed a time-series forecasting project using the ARIMA framework! <br/>
 ➼ 🚧 Currently working on Finance and Data Science-based projects to be released soon! <br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hivan04&theme=transparent&hide_border=true&short_numbers=true&card_width=600)](https://git.io/streak-stats)
 
 <br/>
 
