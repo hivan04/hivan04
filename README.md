@@ -1,4 +1,4 @@
-## Welcome to my GitHub <img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
+## Welcome to my GitHub <img width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 
 ➼ 🎓 Current MSc Investment and Wealth Management Student at Imperial Business School <br/>
 ➼ 🎓 UEA Economics and Finance Graduate - I finished top of my class out of 250 students!  <br/>
