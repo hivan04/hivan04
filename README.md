@@ -4,9 +4,10 @@ Here are some things about me: <br/>
 ➼ 🎓 UEA Economics and Finance Graduate - I finished top of my class out of 250 students!  <br/>
 ➼ 🧗‍♀️ In my free time, I primarily enjoy bouldering, powerlifting and swimming.  <br/>
 ➼ 📈 I recently completed a time-series forecasting project using the ARIMA framework! <br/>
-➼ 🚧 Currently working on Finance and Data Science-based projects to be released soon! <br/><br/>
+➼ 🚧 Currently working on Finance and Data Science-based projects to be released soon! <br/>
 
-> **_Look at me:_** I am actively finding roles in Finance, Tech and anything in between! I am most interested in Data Science and Risk Modelling roles.
+**I am actively finding roles in Finance, Tech and anything in between! I am most interested in Data Science and Risk Modelling roles.**<br/>
+Please feel free to connect with me on LinkedIn to learn more about me!
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hivan04/)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@hivan04)
