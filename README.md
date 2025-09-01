@@ -7,6 +7,7 @@ Here are some things about me: <br/>
 ➼ 🚧 Currently working on Finance and Data Science-based projects to be released soon! <br/>
 
 **I am actively finding roles in Finance, Tech and anything in between! Open to exploring roles in:**
+- Data Science<br>
 - Macroeconomic Research<br>
 - Credit Research<br>
 - Algorithmic Trading<br>
