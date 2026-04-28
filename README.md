@@ -26,14 +26,17 @@ Here are some things about me: <br/>
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" 
   src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />     
+
+
+
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Snowflake" width="30px" style="padding-right:10px;" 
   src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" />
-
-<br /> 
+<br/> 
 
 ### Currently Learning 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" 
