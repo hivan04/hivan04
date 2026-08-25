@@ -1,15 +1,13 @@
 ## Welcome to my GitHub <img width="30px" style="padding-right:10px;" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 Here are some things about me: <br/>
-➼ 🎓 Current MSc Investment and Wealth Management Student at Imperial Business School <br/>
+➼ 🎓 MSc Investment and Wealth Management at Imperial Business School <br/>
 ➼ 🎓 UEA Economics and Finance Graduate - I finished top of my class out of 250 students!  <br/>
-➼ 🧗‍♀️ In my free time, I primarily enjoy bouldering, powerlifting and swimming.  <br/>
-➼ 📈 I recently completed a time-series forecasting project to predict OOS Oil Spreadss using the ARIMAX framework! <br/>
-➼ 🚧 Currently working on a pairs trading strategy using cointegration and statistical arbitrage <br/>
 
 **I am actively finding roles in Finance, Tech and anything in between! Open to exploring roles in:**
 - Global Markets<br>
+- Investment Advisory<br>
 - Portfolio Analytics<br>
-- Data Science
+- Business Intelligence
 
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hivan04/)
