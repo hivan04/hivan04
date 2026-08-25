@@ -2,6 +2,8 @@
 Here are some things about me: <br/>
 ➼ 🎓 MSc Investment and Wealth Management at Imperial Business School <br/>
 ➼ 🎓 UEA Economics and Finance Graduate - I finished top of my class out of 250 students!  <br/>
+➼ Enjoy algo trading, asset allocation and machine learning
+➼ Outside of the academic/work realm, I enjoy bouldering, golf & calisthenics
 
 **I am actively finding roles in Finance, Tech and anything in between! Open to exploring roles in:**
 - Global Markets<br>
